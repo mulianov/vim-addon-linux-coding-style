@@ -23,11 +23,11 @@ augroup linuxsty
 augroup END
 
 function s:LinuxFormatting()
-    setlocal tabstop=8
-    setlocal shiftwidth=8
-    setlocal softtabstop=8
-    setlocal textwidth=80
-    setlocal noexpandtab
+"    setlocal tabstop=8
+"    setlocal shiftwidth=8
+"    setlocal softtabstop=8
+"    setlocal textwidth=80
+"    setlocal noexpandtab
 
     setlocal cindent
     setlocal formatoptions=tcqlron
